@@ -1,0 +1,5 @@
+GraphRAG (Graph-enhanced Retrieval-Augmented Generation) is an advanced Al method that combines large language models (LLMs) with knowledge graphs to retrieve and process information. Unlike traditional RAG-which relies only on text similarity to find separate data chunks- GraphRAG organizes information into a network of nodes (entities) and edges (relationships). This structure lets the Al follow connections across multiple data points to answer complex, multi-step questions
+
+
+neo4J
+Neo4j is a native graph database designed to store, manage, and query highly connected data using nodes, relationships, and properties. Instead of organizing information into traditional rows and columns like relational databases, Neo4j saves data the way you sketch it on a whiteboard, making it exceptionally fast for handling complex relationships.
