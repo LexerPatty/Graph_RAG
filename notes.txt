@@ -3,3 +3,7 @@ GraphRAG (Graph-enhanced Retrieval-Augmented Generation) is an advanced Al metho
 
 neo4J
 Neo4j is a native graph database designed to store, manage, and query highly connected data using nodes, relationships, and properties. Instead of organizing information into traditional rows and columns like relational databases, Neo4j saves data the way you sketch it on a whiteboard, making it exceptionally fast for handling complex relationships.
+
+
+NEO4J LINK:
+https://console.neo4j.io/projects/fbfa51c5-9f51-4717-bb2b-e4fb468ea8de/studio/query
